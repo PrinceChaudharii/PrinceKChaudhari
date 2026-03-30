@@ -1,206 +1,242 @@
+<!-- =====================================================
+     PrinceKChaudhari — GitHub Profile README
+     Honest. Insane. Never seen before.
+     ===================================================== -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
 
-<!-- CAPSULE RENDER ANIMATED HEADER -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:bc13fe,100:ff006e&height=200&section=header&text=PRINCEKCHAUDHARI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time.&descSize=18&descAlignY=60&descColor=ffffff)](https://github.com/PRINCEKCHAUDHARI)
+<table border="0">
+<tr>
+<td align="left"><sub>● ● ●</sub></td>
+<td align="center"><sub>~ / PrinceKChaudhari — zsh</sub></td>
+<td align="right"><sub>⌘</sub></td>
+</tr>
+</table>
 
-<!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=true&width=600&lines=%F0%9F%9A%80+Full-Stack+Dev+%7C+Open+Source+Maniac;%E2%9A%A1+AI%2FML+Engineer+%7C+Cloud+Architect;%F0%9F%94%90+Security+Researcher+%7C+System+Designer;%F0%9F%A4%96+I+write+code+that+makes+senior+devs+cry+(in+awe);%F0%9F%8C%8D+Making+Elon+Musk+nervous+since+2024.;%F0%9F%92%80+git+push+--force+%28just+kidding...+or+am+I%3F%29)](https://github.com/PRINCEKCHAUDHARI)
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│    ██████╗ ██████╗ ██╗███╗  ██╗ ██████╗███████╗           │
+│    ██╔══██╗██╔══██╗██║████╗ ██║██╔════╝██╔════╝           │
+│    ██████╔╝██████╔╝██║██╔██╗██║██║     █████╗             │
+│    ██╔═══╝ ██╔══██╗██║██║╚████║██║     ██╔══╝             │
+│    ██║     ██║  ██║██║██║ ╚███║╚██████╗███████╗           │
+│    ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚══╝ ╚═════╝╚══════╝           │
+│                                                             │
+│              K   C H A U D H A R I                         │
+│    ─────────────────────────────────────────────           │
+│    Developer in progress. Building in public.              │
+│    India  ·  GitHub since 2024  ·  Day 1 energy forever    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=15&duration=2500&pause=1000&color=FFFFFF&center=true&width=600&lines=In+a+world+full+of+users%2C+I+chose+to+be+a+creator.;Not+the+best+coder+yet.+But+watch+this+space.;Turning+curiosity+into+commits%2C+one+day+at+a+time.;The+journey+is+the+flex.+%F0%9F%94%A5"/>
 
-<!-- VISITOR COUNTER + BADGES -->
-![Profile Views](https://visitcount.itsvg.in/api?id=PRINCEKCHAUDHARI&icon=6&color=9)
-![GitHub followers](https://img.shields.io/github/followers/PRINCEKCHAUDHARI?style=flat&logo=github&color=00d4ff&labelColor=0d1117)
-![GitHub User's stars](https://img.shields.io/github/stars/PRINCEKCHAUDHARI?style=flat&logo=github&color=bc13fe&labelColor=0d1117)
+<br/>
 
-![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=flat&color=00ff41&labelColor=0d1117)
-![](https://img.shields.io/badge/⚡_Code_Time-5%2C000+_hrs-00ff41?style=flat&labelColor=0d1117)
-![](https://img.shields.io/badge/🏆_Rank-Top_1%25-ff006e?style=flat&labelColor=0d1117)
+![](https://img.shields.io/badge/LOCATION-India-white?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/STATUS-Building-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/COFFEE-∞-white?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/SLEEP-optional-red?style=flat-square&labelColor=000000)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧬 About Me
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=1" width="40%"/>
+<br/><br/>
+
+> ### *"I don't know everything.*
+> ### *But I'm learning everything.*
+> ### *That's enough."*
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=1" width="40%"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `whoami`
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name        = "PRINCEKCHAUDHARI"
-        self.role        = ["Full-Stack Engineer", "AI/ML Architect", "Open Source Lover"]
-        self.languages   = ["Python", "TypeScript", "Rust", "Go", "C++"]
-        self.fields      = ["Distributed Systems", "ML/LLM", "Blockchain", "Security"]
-        self.os          = "Arch Linux btw 🐧"
-        self.coffee      = float('inf')  # ∞ cups
+class PrinceKChaudhari:
+
+    name     = "Prince K Chaudhari"
+    location = "India 🇮🇳"
+    status   = "Developer in progress"
+
+    currently_learning = [
+        "Python",
+        "Web Development",
+        "AI / ML — the rabbit hole 🐇",
+    ]
+
+    tools_i_actually_use = [
+        "Cursor (vibe coding 😂)",
+        "Termux (yes, on phone)",
+        "GitHub (obviously)",
+        "Claude AI (my pair programmer)",
+    ]
+
+    fun_facts = [
+        "Built this entire GitHub setup from my phone 📱",
+        "No PC. No excuses.",
+        "Started from zero. Still going.",
+    ]
+
+    goal = "Build things that matter. Ship. Learn. Repeat."
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something insane together 🚀")
+        print("Thanks for visiting! Star something if you like it ⭐")
 
-    @property
-    def currently(self):
-        return {
-            "learning"  : "Quantum Computing 🔬",
-            "building"  : "Something you'll star ⭐",
-            "reading"   : "SICP for the 3rd time 📖",
-            "vibing"    : "Lo-fi hip hop 🎵"
-        }
-
-me = Developer()
+me = PrinceKChaudhari()
 me.say_hi()
 ```
 
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+<br/>
+
+## `git log --stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRINCEKCHAUDHARI&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bc13fe&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCEKCHAUDHARI&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8&hide=html,css" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrinceKChaudhari&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff3b30&text_color=ffffff&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKChaudhari&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PRINCEKCHAUDHARI&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff006e&currStreakLabel=bc13fe&sideLabels=00d4ff&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PrinceKChaudhari&theme=radical&hide_border=true&background=0d1117&ring=ffffff&fire=ff3b30&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 ---
 
-## 🐍 Contribution Snake
+<br/>
+
+## `crontab -e` &nbsp;·&nbsp; Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PRINCEKCHAUDHARI/PRINCEKCHAUDHARI/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PRINCEKCHAUDHARI/PRINCEKCHAUDHARI/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PRINCEKCHAUDHARI/PRINCEKCHAUDHARI/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceKChaudhari/PrinceKChaudhari/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinceKChaudhari/PrinceKChaudhari/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/PrinceKChaudhari/PrinceKChaudhari/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-## 📈 Activity Graph
+<br/>
+
+## `tail -f activity.log`
 
 <div align="center">
 
-[![PRINCEKCHAUDHARI's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRINCEKCHAUDHARI&bg_color=0d1117&color=00d4ff&line=bc13fe&point=ff006e&area_color=bc13fe&area=true&hide_border=true&custom_title=Commit%20Activity%20%E2%9A%A1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrinceKChaudhari&bg_color=0d1117&color=ffffff&line=ff3b30&point=ffffff&area_color=ff3b30&area=true&hide_border=true&custom_title=Commit+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 GitHub Trophies
+<br/>
+
+## `ls -la /projects`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PRINCEKCHAUDHARI&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![AI Sentiment Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=PrinceKChaudhari&repo=AI-Sentiment-Analyzer&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ff3b30&text_color=ffffff)](https://github.com/PrinceKChaudhari/AI-Sentiment-Analyzer)
 
 </div>
 
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,svelte,tailwind,figma&perline=6)
-
-### ⚙️ Backend & Systems
-![Backend](https://skillicons.dev/icons?i=nodejs,python,go,rust,cpp,fastapi&perline=6)
-
-### 🤖 AI / ML
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6)
-![](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 🗄️ Databases & Cloud
-![DB](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,elasticsearch,firebase&perline=6)
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,vercel,netlify&perline=6)
-
-### 🛠️ DevOps & Tools
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx&perline=6)
-
-</div>
+<br/>
 
 ---
 
-## 🎯 2025 Goals & Progress
+<br/>
 
-| Goal | Progress | Status |
-|------|----------|--------|
-| 🌟 Reach 10K GitHub Stars | `████████░░` 80% | 🔥 Almost there |
-| 📦 Launch 3 SaaS Products | `██████░░░░` 60% | ⚡ In Progress |
-| 📝 Write 50 Blog Posts | `█████████░` 90% | 🚀 Crushing it |
-| 🤝 100 OSS Contributions | `██████████` 100% | ✅ DONE |
-| 🎓 2 Certifications | `█████░░░░░` 50% | 📚 Studying |
-| 🌍 1M API calls on my project | `████░░░░░░` 40% | 📈 Growing |
+## `cat /var/log/journey.log`
 
----
-
-## 📦 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PRINCEKCHAUDHARI&repo=YOUR_BEST_REPO&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bc13fe&text_color=ffffff)](https://github.com/PRINCEKCHAUDHARI/YOUR_BEST_REPO)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PRINCEKCHAUDHARI&repo=YOUR_SECOND_REPO&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=bc13fe&text_color=ffffff)](https://github.com/PRINCEKCHAUDHARI/YOUR_SECOND_REPO)
-
-</div>
-
----
-
-## ⏰ WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 42 mins  ███████████░░░░░  42.1%
-Python       9 hrs 17 mins   ██████░░░░░░░░░   24.9%
-Rust         5 hrs 34 mins   ███░░░░░░░░░░░░   14.9%
-Go           3 hrs 11 mins   ██░░░░░░░░░░░░░    8.6%
-Other        3 hrs 32 mins   ██░░░░░░░░░░░░░    9.5%
 ```
-<!--END_SECTION:waka-->
+[2024-12-xx]  Created GitHub account.
+[2025-01-xx]  Started learning to code.
+[2026-03-29]  Built insane GitHub profile. From a phone.
+[2026-03-30]  Pushed first AI project.
+[...........]  Writing the next chapter. Watch this space.
+```
+
+<br/>
+
+<details>
+<summary><b>🔮 &nbsp; What's coming next</b></summary>
+
+<br/>
+
+```
+[ ] Get a PC
+[ ] Build something people actually use
+[ ] First 100 GitHub stars
+[ ] Contribute to open source
+[ ] Learn DSA properly
+[ ] Ship a real AI project
+[ ] Make this journey worth reading about
+```
+
+*No fake progress bars. Just real goals. Updated when done.*
+
+</details>
+
+<br/>
 
 ---
 
-## 🌐 Connect With Me
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+```
+"The expert in anything was once a beginner
+ who refused to quit."
+```
 
-</div>
+<br/>
 
----
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=PrinceKChaudhari.PrinceKChaudhari&left_color=000000&right_color=ff3b30&left_text=visitors)
 
-## 💬 Random Dev Quote
+<br/>
 
-<div align="center">
+<sub>Built entirely from a phone 📱 · India 🇮🇳 · <a href="https://github.com/PrinceKChaudhari">PrinceKChaudhari</a></sub>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-<!-- FOOTER WAVE -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:bc13fe,100:00d4ff&height=120&section=footer)](https://github.com/PRINCEKCHAUDHARI)
-
-**⚡ Profile auto-updated every 24 hours via GitHub Actions ⚡**
-
-*"First, solve the problem. Then, write the code."*
-
-![](https://komarev.com/ghpvc/?username=PRINCEKCHAUDHARI&color=bc13fe&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=100&section=footer"/>
 
 </div>
